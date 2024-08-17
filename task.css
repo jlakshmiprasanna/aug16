@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(40, 37, 4);
+}
+.ntr{
+    padding-top: 5%;
+}
+h1{
+    background-color: coral;
+    color: rgb(63, 61, 4);
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    height: 5%;
+    margin: 0;
+}
+.vijay{
+    position: relative;
+    top: 8rem;
+    z-index: -10;
+}
+.chiranjeevi{
+    position:absolute;
+    padding-bottom: 10%;
+    top: 25rem;
+    padding-left: 40%;
+    border-radius: 20%;
+    z-index: -10;
+}
+#ab{
+    position: absolute; 
+    border-radius: 5%;
+}
+.nani{
+    position: relative;
+    bottom: 50rem;
+    z-index: -10;
+    left: 79rem;
+}
+.vishwak{
+    position: absolute;
+    top:39rem;
+    z-index: -10;
+    left: 80rem;
+}
